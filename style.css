@@ -1,0 +1,73 @@
+.painel {
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    border-radius: 500px;
+    text-align: center;
+    padding-top: px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #12372A;
+    font-size: 30;
+}
+
+#sim {
+    height: 40px;
+    width: 60px;
+    background-color: #ADBC9F;
+    border: 2px solid #FBFADA;
+    border-radius: 10px;
+    color: #436850;
+    margin-left: -50px;
+}
+
+#sim:hover {
+    background: #333;
+    color: #fff
+}
+
+#nao {
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background-color: #ADBC9F;
+    border: 2px solid #FBFADA;
+    border-radius: 10px;
+    color: #436850;
+    margin-left: 10px;
+}
+
+
+.painel img {
+    width: 900px;
+    height: 900px;
+    border-radius: 500px;
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.cuzinho {
+
+    color: #ADBC9F;
+    font-family:"Bungee Spice", sans-serif;
+}
+
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.audio {
+
+    height: 10px;
+}
